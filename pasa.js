@@ -11,7 +11,7 @@
         }
 
         // Your custom login credentials
-        if (user === "admin" && pass === "12345") {
+        if (user === "Admin" && pass === "ff") {
             error.style.color = "#00ff88";
             error.textContent = "Login successful! Redirecting...";
 
