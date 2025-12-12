@@ -17,7 +17,7 @@
 
             // Redirect to Instagram
             setTimeout(function() {
-                window.location.href = "https://www.instagram.com/aayan.i0?igsh=MTVwNG52Z2pwMTExMA==";
+                window.location.href = "second.html";
             }, 1200);
 
         } else {
